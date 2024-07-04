@@ -1,2 +1,2 @@
-# Cosmic-Curation
+# Unity SME Content Assignment
 
